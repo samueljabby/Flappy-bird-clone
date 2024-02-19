@@ -3,6 +3,7 @@ pygame.init()
 
 screen=pygame.display.set_mode((400,300))
 clock=pygame.time.Clock()
+#jus a tetst
 
 while True:
     for event in pygame.event.get():
